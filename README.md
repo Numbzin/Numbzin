@@ -1,16 +1,36 @@
-### Hi there 👋
+# Salve, sou o Numb. 👋
 
-<!--
-**Numbzin/Numbzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Atualmente, uso o VS Code como meu ambiente de desenvolvimento.
+- 📚 Comecei minha jornada de programação por conta própria, aprendendo através de livros.
+- 🎓 Estou planejando fazer um curso para aprimorar minhas habilidades.
+- 🎮 Tenho o objetivo de explorar o desenvolvimento de jogos.
 
-Here are some ideas to get you started:
+```python
+class Developer:
+    def __init__(self):
+        self.info = "Full stack? Maybe some day."
+        self.pronouns = "he/him"
+        self.langs = ["Python"]
+        self.areas = ["Web Development", "Game Development"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == "__main__":
+    developer = Developer()
+
+    print(developer.info)
+    print(f"Pronouns: {developer.pronouns}")
+    print(f"Languages: {', '.join(developer.langs)}")
+    print(f"Areas: {', '.join(developer.areas)}")
+
+    # ... I love Python :)
+```
+
+# Tecnologias
+<img align="right" src="https://media.giphy.com/media/wxAdUz2UnK0Ruex94J/giphy.gif"
+width="350" height="350">
+<div align="left">
+  <div>
+    <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
+    <!-- Adicione outros escudos (shields) conforme necessário -->
+  </div>
+  <hr height="1">
+</div>

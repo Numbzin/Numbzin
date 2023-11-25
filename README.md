@@ -24,7 +24,7 @@ if __name__ == "__main__":
     # ... I love Python :)
 ```
 
-# Tecnologias
+# Linguagens
 <img align="right" src="https://media.giphy.com/media/wxAdUz2UnK0Ruex94J/giphy.gif"
 width="350" height="350">
 <div align="left">

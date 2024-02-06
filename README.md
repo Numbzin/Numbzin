@@ -1,9 +1,8 @@
-# Salve, sou o Numb. 👋
-
-- 💻 Atualmente, uso o VS Code como meu ambiente de desenvolvimento.
-- 📚 Comecei minha jornada de programação por conta própria, aprendendo através de livros.
-- 🎓 Estou planejando fazer um curso para aprimorar minhas habilidades.
-- 🎮 Tenho o objetivo de explorar o desenvolvimento de jogos.
+# Hello, I'm Numb. 👋
+- 💻 Currently, I use VS Code as my development environment.
+- 📚 I started my programming journey on my own, learning through books.
+- 🎓 I'm planning to take a course to enhance my skills.
+- 🎮 I have a goal to explore game development.
 
 ```python
 class Developer:
@@ -22,15 +21,18 @@ if __name__ == "__main__":
     print(f"Areas: {', '.join(developer.areas)}")
 
     # ... I love Python :)
+
 ```
 
-# Linguagens
+# Languages
 <img align="right" src="https://media.giphy.com/media/wxAdUz2UnK0Ruex94J/giphy.gif"
 width="350" height="350">
+
 <div align="left">
   <div>
     <img alt="Python" src="https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue">
-    <!-- Adicione outros escudos (shields) conforme necessário -->
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=yellow">
+    <!-- Add other shields as needed -->
   </div>
   <hr height="1">
 </div>

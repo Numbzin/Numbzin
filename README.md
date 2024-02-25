@@ -45,4 +45,3 @@ width="350" height="350">
   </div>
   <hr height="1">
 </div>
-```

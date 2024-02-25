@@ -4,6 +4,7 @@
 - 📚 I started my programming journey on my own, learning through books.
 - 🎓 I'm planning to take a course to enhance my skills.
 - 🎮 I have a goal to explore game development.
+- 🔒 I'm also learning about hacking (cybersecurity).
 
 ```python
 class Developer:
@@ -22,7 +23,6 @@ if __name__ == "__main__":
     print(f"Areas: {', '.join(developer.areas)}")
 
     # ... I love Python :)
-
 ```
 
 ## Contacts:

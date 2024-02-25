@@ -24,6 +24,13 @@ if __name__ == "__main__":
 
 ```
 
+# Contacts:
+
+<div>
+<a href="https://instagram.com/Numbzinx" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/numbzin" target="_blank"><img loading="lazy" src="https://img.shields.io/twitter/follow/numbzin?style=social" target="_blank"></a>
+</div>
+
 # Languages
 <img align="right" src="https://media.giphy.com/media/wxAdUz2UnK0Ruex94J/giphy.gif"
 width="350" height="350">

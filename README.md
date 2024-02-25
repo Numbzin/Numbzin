@@ -10,8 +10,8 @@ class Developer:
     def __init__(self):
         self.info = "Full stack? Maybe some day."
         self.pronouns = "he/him"
-        self.learning_languages = ["Python", "JavaScript"]
-        self.areas = ["Web Development", "Game Development"]
+        self.learning_languages = ["Python", "JavaScript", "HTML", "CSS", "C"]
+        self.areas = ["Web Development", "Game Development", "Cybersecurity"]
 
 if __name__ == "__main__":
     developer = Developer()

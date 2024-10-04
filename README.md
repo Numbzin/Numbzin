@@ -23,7 +23,7 @@
   </a>
 </div>
 
-![snake gif](https://github.com/Numbzin/Numbzin/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Numbzin/Numbzin/blob/output/github-contribution-grid-snake.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=footer&animation=fadeIn&descAlign=100"/>
 

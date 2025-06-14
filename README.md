@@ -10,6 +10,7 @@ const bio = {
   roles: ["Front-End Dev", "Web Designer"],
   loves: ["código", "estética", "projetos próprios"]
 };
+```
 
 
 <div align="center">
@@ -34,7 +35,7 @@ const bio = {
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=footer&animation=fadeIn&descAlign=100"/> ```
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=footer&animation=fadeIn&descAlign=100"/>
 
 
 

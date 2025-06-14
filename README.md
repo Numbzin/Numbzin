@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ae,bootstrap,firebase,nodejs,ts,vue,vscode,git)](https://skillicons.dev)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Numbzin&bg_color=0d1117&color=64339c&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Numbzin&bg_color=transparent&color=64339c&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
 
 <div align="center">
   <h2>Contact</h2>

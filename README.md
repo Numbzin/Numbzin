@@ -43,7 +43,7 @@ role:  Dev + Motion
 study: CC @ UVA
 build: michi
 os:    Arch + Win10
-langs: C/Java/Py/JS/TS/SQL
+langs: C / Java/ Py / JS / TS / SQL
 since: video ed. 2018
 ```
 
@@ -75,8 +75,5 @@ IA-Detetive/           # jogo texto
 
 <div align="center">
 
-```diff
-# a idade roda em cron diário (GitHub Actions), nada aqui é hardcoded
-```
 
 </div>

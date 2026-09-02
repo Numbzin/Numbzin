@@ -1,0 +1,58 @@
+name: Update age in README
+
+# Isso é um "workflow" do GitHub Actions: um robô que roda comandos
+# automaticamente dentro do seu repositório, sem você precisar abrir o PC.
+
+on:
+  schedule:
+    # cron roda em UTC. "0 6 * * *" = todo dia às 06:00 UTC (03:00 no Brasil).
+    # formato: minuto hora dia-do-mes mes dia-da-semana
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+    # permite clicar em "Run workflow" manualmente na aba Actions do GitHub,
+    # útil pra testar sem esperar o cron disparar
+
+permissions:
+  contents: write
+  # sem isso o robô não tem permissão de dar commit/push no repo
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+        # baixa o código do seu repo pra dentro da máquina virtual do Actions
+
+      - name: Calcular idade e atualizar README
+        run: |
+          BIRTH="2002-07-21"
+          TODAY=$(date +%Y-%m-%d)
+
+          # transforma as datas em número (AAAAMMDD) pra dar pra subtrair
+          BIRTH_NUM=$(date -d "$BIRTH" +%Y%m%d)
+          TODAY_NUM=$(date -d "$TODAY" +%Y%m%d)
+
+          # diferença de anos "bruta"
+          AGE=$(( (TODAY_NUM - BIRTH_NUM) / 10000 ))
+
+          echo "Idade calculada: $AGE"
+
+          # troca o texto entre os marcadores <!--AGE-->...<!--/AGE-->
+          # no README.md pela idade nova
+          sed -i "s/<!--AGE-->.*<!--\/AGE-->/<!--AGE-->${AGE}<!--\/AGE-->/" README.md
+
+      - name: Commitar se algo mudou
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          # se não mudou nada (mesma idade), não cria commit vazio
+          if git diff --cached --quiet; then
+            echo "Nada mudou, pulando commit."
+          else
+            git commit -m "chore: atualiza idade automaticamente"
+            git push
+          fi

@@ -1,30 +1,82 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=header&animation=fadeIn&descAlign=100"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+NMB!;I'm+23+years+old!;Front-End+Dev!;Welcome!+:%29)
 
-<div align="center">
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Numbzin&theme=jolly&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117"/>
-	<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Numbzin&theme=jolly&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117"/>
+```diff
++ status: online — buildando o michi
+```
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,ae,bootstrap,firebase,nodejs,ts,vue,vscode,git)](https://skillicons.dev)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Numbzin&bg_color=transparent&color=64339c&line=9fb2e0&point=7e98d5&area=true&hide_border=true)
-
-<div align="center">
-  <h2>Contact</h2>
-  <a href="https://instagram.com/Numbzin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/Numbzin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-  </a>
-  <a href="https://discord.com/users/Numbzin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-  </a>
 </div>
 
+<table>
+<tr>
+<td valign="top" width="46%" rowspan="2">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=footer&animation=fadeIn&descAlign=100"/>
+```
+⠀⠀⠀⠀⠀⠀⠀⠀⠁⡀⠈⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⡉⡛⠟⠟⠟⠋⠉⠠⢸
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⢀⠀⡀⠀⢠⢐⠤⡨⢢⡀⠆⣅⢒⢔⢪⠪⢈⠎⡅⠣⣻
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⢄⡀⠠⡐⡢⡢⣘⠬⣘⠤⡑⠪⡈⡣⡢⠩⣒⡱⢌⣔⢅⠫⠜⡬⠣⣿
+⡦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⡀⢆⠜⢔⢰⡘⢆⣌⢆⠡⡈⠲⠤⣓⢆⢏⡪⣫⢢⡪⡚⡅⣕⢕⢕⢦⢱⠜⡜⡕⣸⣿
+⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠠⢀⠢⢪⠘⡰⠌⠎⢆⢑⠀⢃⣁⠀⣈⣠⣀⠠⣬⡀⠖⣲⡱⢪⡺⡪⡝⣆⢺⣱⣍⢗⢕⡇⣗⠡⣿⣿
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⡀⡢⢌⢔⡑⢊⠎⣪⢪⣄⢫⢪⠜⡜⡅⢻⣿⣶⣑⢧⣪⣢⡌⢿⣷⣦⣉⡓⠷⢮⣏⣵⢘⣼⣕⣵⣍⡧⣱⢺⣿⣿
+⠀⠀⠀⠀⠀⠀⡀⠂⡠⠠⡕⡂⢕⠕⡬⠂⡬⢣⢺⢰⢣⢲⡊⣎⡣⡳⣝⡘⣿⣿⡿⣶⡍⢴⡴⣆⠻⣿⣿⠿⣿⣶⡴⣨⠸⡼⠎⣷⡮⣷⢁⣯⣿⣿
+⠀⠀⠀⠀⠀⡢⡨⣒⠪⢐⡺⣜⠁⠋⣀⡌⡦⢧⢧⣓⡕⢧⡝⡔⢍⢪⠮⣦⢹⣿⣷⣿⣿⣷⡬⢓⠡⢌⠶⠿⠛⠉⢀⣀⠈⢠⡮⣾⡬⣿⢘⣿⣿⣯
+⠀⠀⠀⠀⠠⡬⢢⡪⡹⢰⠸⢂⢅⢒⣇⢮⢎⣣⢕⢷⣝⢷⣻⠾⣬⢢⠻⣾⣦⡻⣿⡻⣭⠶⠺⠛⠉⣀⣀⡄⠀⣰⣿⣯⠸⣿⡮⡿⣮⢣⢣⣿⣿⣿
+⠀⠀⠀⠀⢨⢒⠡⡲⢹⠄⢐⣏⡾⡄⠣⣓⢧⠑⣱⣳⢽⢗⣟⣾⣾⣧⡂⠻⣿⣦⡹⠾⢀⣤⣤⣐⠌⠋⠫⢕⣵⣿⣿⣿⢨⡧⠿⣾⢊⠎⣾⣿⣿⣿
+⣶⣾⣿⣿⢀⡏⡎⣝⡝⡆⢸⢶⡫⣇⢳⡘⢯⣧⠉⠷⡻⢿⡿⣷⣿⣾⣿⣆⠘⡻⣷⡜⢿⣿⣿⣿⣿⣯⣷⣾⠿⡟⣿⡏⡠⣻⡌⢃⡴⢢⡿⣿⣿⡿
+⣿⣿⣿⣿⠀⣷⡡⣏⢽⢹⢸⡭⢟⡕⣸⣯⡀⡶⠇⠇⠈⠱⢿⢿⣿⣿⣿⣿⣷⡸⣮⣹⠗⡙⢿⠿⣿⡿⡏⣿⡷⣿⣸⠇⢿⣬⠏⡰⢽⢶⣜⣍⣇⣏
+⣿⣿⡿⣿⡆⢷⣫⠌⣮⢿⡆⢿⡯⡇⠒⠁⣁⡀⠀⡀⠰⠦⠀⠸⢿⣿⣿⣿⣿⣿⣌⡻⢸⣏⣿⡟⣻⡅⣿⠹⣧⢻⡍⣼⡿⢣⡆⣾⡟⣿⡿⣟⣾⣻
+⣛⡛⠼⣿⣇⢹⣿⠌⣞⣽⡯⡨⣦⠄⣦⣀⢹⣻⣷⣦⡀⠝⢹⣽⣶⣭⡝⠻⢿⣿⣿⣷⢪⣛⠸⣧⢻⣗⣽⣧⢻⡎⢱⣣⠵⣿⢱⣿⣾⣿⣿⣿⡗⣱
+⣿⠿⣓⣾⣿⡐⣿⢇⢔⢷⡿⣇⠹⢨⠹⣟⢦⡹⢿⣿⣿⣶⣬⣝⣿⣏⠾⣸⣷⣶⣵⣵⣭⣮⣵⣴⣼⣿⣿⣿⣬⣶⣿⣿⠏⢏⣾⣿⣿⣿⠟⣣⢞⣽
+⣵⣾⣿⣿⣿⡧⢺⣟⡎⢷⣻⢿⣆⠽⡧⠘⣿⡽⡌⠟⣇⣻⡍⣿⣿⣷⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡂⣵⣿⠿⢋⣥⠂⣿⢹⣾
+⡻⣟⢿⣿⣿⣿⡌⢿⣿⣈⠿⣿⠿⣎⠃⣷⡑⣿⣽⡄⢿⡜⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⡜⣏⡵⣪⡾⠡⠰⣏⣛⣛
+⣏⣥⣬⡭⢿⢿⣿⡌⢯⣿⣇⢻⢷⡝⢧⠹⣧⠸⡯⣟⣌⠳⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⡿⠿⣛⣩⡩⣙⢻⣿⣮⣵⣶⣿⡿⢫⣾⡟⠡⠌⣸⢖⣝⣝
+⢉⣿⣿⣿⢹⠀⢿⣿⡜⣻⣿⣿⣆⠻⠶⡵⣜⡃⢻⣷⣟⡔⣌⠻⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣴⣶⣶⣶⣿⣿⣿⣿⠟⣉⣴⡿⠋⠠⡪⢈⡮⣷⢵⢵
+⠀⣿⣿⠿⠀⢧⢹⣿⣿⣆⠹⣻⣿⣧⣑⠰⣶⣦⢠⣭⣴⢮⢿⣷⣆⠉⠛⠻⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠈⢴⣿⡟⢁⢎⠰⢀⡏⣼⢳⣝⢗
+⡀⠚⢡⣼⣾⠬⣿⣿⣿⣿⣷⣌⠻⣿⣿⣮⡻⢿⡂⣿⢼⣻⢸⣺⢻⡀⣉⠂⠀⠀⠀⠈⠈⠙⠛⠿⠿⠟⠋⠀⠀⠀⠀⠀⠀⠊⠀⠂⡎⣴⢱⢣⢗⢺
+⣇⠐⣿⠟⢁⡾⠋⠋⢿⣿⣿⣿⣿⣮⣝⡻⠿⢶⣅⣙⠺⠝⣸⣟⣵⠁⠐⡡⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠤⠐⡅⠄⡸⡰⢡⢣⢕⢦⢓
+⣿⡄⣡⣴⣿⣧⠟⠀⣨⣿⣿⣿⣿⣿⣿⣿⣿⣷⡆⣖⣳⢹⢼⢾⣽⠀⡣⠈⢪⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠍⡨⡰⡠⡣⡱⡡⣃⢇⠕
+```
 
+</td>
+<td valign="top" width="54%">
 
+```yaml
+# neofetch --minimal
+user:  NMB (numbzin)
+age:   <!--AGE-->24<!--/AGE-->  
+pet:   Chant
 
+role:     Dev + Motion Designer
+study:    CC @ UVA
+building: michi
+
+os:    Arch (BSPWM) + Windows 10
+langs: C, Java, Py, JS, TS, SQL
+
+since: editando video desde 2018
+```
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="54%">
+
+```bash
+$ cat ./socials.txt
+gh       github.com/numbzin
+ig       instagram.com/Numbzin
+x        twitter.com/Numbzin
+discord  Numbzin
+site     numbzin.me
+```
+
+</td>
+</tr>
+</table>
+
+```bash
+$ ls -1 ~/projects
+heavenly-restriction/  # app mobile
+michi/       		   # plataforma de estudos
+Nbot/          		   # bot whatsapp
+IA-Detetive/           # jogo texto
+```
